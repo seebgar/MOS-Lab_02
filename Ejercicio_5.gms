@@ -36,13 +36,13 @@ domingo
 ;
 
 objectiveFunction           ..  z=e= LM + MM+ MJ + JV + VS + SD + DL;
-lunes   ..  MM + MJ + JV + VS + SD =g=17;
-martes .. MJ + JV + VS + SD + DL =g=13;
-miercoles .. JV + VS + SD + DL + LM =g= 15;
-jueves .. VS + SD + DL + LM + MM =g=19;
-viernes .. SD + DL + LM + MM + MJ =g=14;
-sabado .. DL + LM + MM + MJ + JV =g=16;
-domingo ..  LM + MM+ MJ + JV + VS =g=11;
+lunes .. DL + LM + MM + MJ + JV =g=17;
+martes ..  LM + MM+ MJ + JV + VS =g=13;
+miercoles   ..  MM + MJ + JV + VS + SD =g=15;
+jueves .. MJ + JV + VS + SD + DL =g=19;
+viernes .. JV + VS + SD + DL + LM =g= 14;
+sabado .. VS + SD + DL + LM + MM =g=16;
+domingo .. SD + DL + LM + MM + MJ =g=11;
 
 
 Model mod1 /all/;
