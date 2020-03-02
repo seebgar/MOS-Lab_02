@@ -1,10 +1,11 @@
 
 $onText
- LABORATORIO 1 - EJERCICIO 4                             
+ LABORATORIO 2 - EJERCICIO 1                         
 Estación de bomberos cada 15 minutos entre prueblos
+Generico
 
 SEBASTIAN GARCIA   -   201630047
-NICOLAS SOLETO         -    2016      
+NICOLAS SOLETO         -    201623026     
 $offText
 
 sets
